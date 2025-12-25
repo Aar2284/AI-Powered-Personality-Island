@@ -124,3 +124,5 @@ The project uses a single API endpoint to get the personality profile.
 
 This project's machine learning model was trained on data from the **International Personality Item Pool**.
 - Johnson, J. A. (2014). Measuring the Big Five personality factors with the IPIP-FFM.
+
+- Thanks to **https://github.com/SuryanshOG** helping me building an amazing frontend.
